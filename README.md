@@ -36,4 +36,4 @@ Veri seti aşağıdaki kolonları içermektedir:
 - `licensed`: Videonun lisanslı içeriği temsil edip etmediğini belirtir.
 - `official_video`: Şarkının resmi video olup olmadığını gösteren boolean değeri.
 
-
+EDA, şarkıların dans edilebilirliği, enerjisi ve hem Spotify hem de YouTube'daki popülerlikleri gibi çeşitli özellikler hakkında içgörüler sağlar. Görselleştirmeler, farklı özellikler arasındaki trendleri ve korelasyonları anlamamıza yardımcı olur.
