@@ -2,7 +2,7 @@
 
 Bu depo, Spotify ve YouTube verilerinin kapsamlı bir keşifsel veri analizi (EDA) çalışmasını içerir. Proje, Python kullanarak veri analizi ve görselleştirme yaparak bu iki platformdaki şarkıların ve videoların çeşitli özellikleri hakkında içgörüler sağlar.
 
-Bu projede, Spotify ve YouTube'dan alınan veri setlerini analiz ederek bu platformlardaki müzik parçalarının özelliklerini ve trendlerini anlamaya çalışıyoruz. Python kullanarak keşifsel veri analizi (EDA) yapıyor ve bulgularımızı görselleştirerek kalıpları ve içgörüleri ortaya çıkarıyoruz.
+Bu projede, Spotify ve YouTube'dan alınan veri setlerini analiz ederek bu platformlardaki müzik parçalarının özelliklerini ve trendlerini anlamaya çalışıyoruz. Python kullanarak keşifsel veri analizi (EDA) yapıyor ve bulgularımızı görselleştirerek kalıpları ve içgörüleri ortaya çıkarıyoruz. 
 
 
 Veri seti aşağıdaki kolonları içermektedir:
